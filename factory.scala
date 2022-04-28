@@ -1,4 +1,4 @@
-package com.luxoft.sensor
+package com.example.sensor
 
 import java.io.File
 import scala.io.Source
